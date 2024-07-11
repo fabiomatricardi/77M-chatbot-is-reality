@@ -1,0 +1,14 @@
+download all the files from 
+
+https://huggingface.co/MBZUAI/LaMini-Flan-T5-77M/tree/main
+```
+config.json
+generation_config.json
+pytorch_model.bin
+README.md
+special_tokens_map.json
+tokenizer.json
+tokenizer_config.json
+training_args.bin
+```
+into this directory
